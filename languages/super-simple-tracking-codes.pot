@@ -1,0 +1,330 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Simple Tracking Codes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-05 20:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: admin/class-super-simple-tracking-codes-admin.php:341
+msgid "Allow button text"
+msgstr ""
+
+#: public/class-super-simple-tracking-codes-public.php:90
+msgid "Allow cookies"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:278
+msgid "Bottom (banner)"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:279
+msgid "Bottom Left (window)"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:280
+msgid "Bottom Right (window)"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:465
+msgid "Button background color"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:448
+msgid "Button text color"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:585
+msgid "Container ID"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:269
+msgid "Cookie consent position"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:249
+msgid "Cookie consent type"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:407
+msgid "Day(s)"
+msgstr ""
+
+#: public/class-super-simple-tracking-codes-public.php:88
+msgid "Decline"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:324
+msgid "Deny button text"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:307
+msgid "Dismiss button text"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:231
+#: admin/class-super-simple-tracking-codes-admin.php:241
+#: admin/class-super-simple-tracking-codes-admin.php:483
+#: admin/class-super-simple-tracking-codes-admin.php:493
+#: admin/class-super-simple-tracking-codes-admin.php:578
+#: admin/class-super-simple-tracking-codes-admin.php:663
+msgid "Enable"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:568
+#: admin/class-super-simple-tracking-codes-admin.php:653
+msgid "Enable?"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:552
+#: admin/class-super-simple-tracking-codes-admin.php:637
+#: admin/class-super-simple-tracking-codes-admin.php:722
+msgid "Exclude user roles from tracking"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:393
+msgid "Expiry Days"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:213
+#: admin/partials/super-simple-tracking-codes-admin-display.php:29
+msgid "Facebook Pixel"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:185
+#: admin/partials/super-simple-tracking-codes-admin-display.php:20
+msgid "GDPR"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:199
+#: admin/partials/super-simple-tracking-codes-admin-display.php:23
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:206
+#: admin/partials/super-simple-tracking-codes-admin-display.php:26
+msgid "Google Tag Manager"
+msgstr ""
+
+#: public/class-super-simple-tracking-codes-public.php:86
+msgid "Got it!"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:408
+msgid ""
+"How many days the cookie consent should not be displayed after user accepts "
+"the consent."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://solitweb.be"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/super-simple-tracking-codes"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:561
+#: admin/class-super-simple-tracking-codes-admin.php:646
+#: admin/class-super-simple-tracking-codes-admin.php:731
+msgid ""
+"If a user with a checked roles in logged in, the tracking code will not be "
+"placed on your site."
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:242
+msgid ""
+"If checked a cookie consent will be shown on the front-end of your site."
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:528
+#: admin/class-super-simple-tracking-codes-admin.php:613
+#: admin/class-super-simple-tracking-codes-admin.php:698
+msgid "If checked the tracking code will be added to every page."
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:494
+#: admin/class-super-simple-tracking-codes-admin.php:579
+#: admin/class-super-simple-tracking-codes-admin.php:664
+msgid ""
+"If this is not checked, the tracking code will not be placed on your site. "
+"(All settings below will stay saved!)"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:257
+msgid "Informational"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Just because it's super simple to add tracking codes to your website with "
+"this plugin."
+msgstr ""
+
+#: public/class-super-simple-tracking-codes-public.php:92
+msgid "Learn more"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:387
+msgid "Link to your privacy policy page. (e.g. www.example.com/cookiepolicy)"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:290
+msgid "Message"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:301
+msgid ""
+"Message shown on the cookie consent. (e.g. This website uses cookies to "
+"ensure you get the best experience on our website.)"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:263
+#, php-format
+msgid "More info: %s"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:259
+msgid "Opt-in"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:258
+msgid "Opt-out"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:670
+msgid "Pixel ID"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:358
+msgid "Policy link text"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:375
+msgid "Policy link URL"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:431
+msgid "Popup background color"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:414
+msgid "Popup text color"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:284
+msgid "Position of the cookie consent banner/window popup."
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:500
+msgid "Property ID"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:534
+#: admin/class-super-simple-tracking-codes-admin.php:619
+#: admin/class-super-simple-tracking-codes-admin.php:704
+msgid "Select specific pages"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:546
+#: admin/class-super-simple-tracking-codes-admin.php:631
+#: admin/class-super-simple-tracking-codes-admin.php:716
+msgid "Selected specific pages where you want the tracking code to be added."
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:810
+msgid "Settings for Cookie Consent."
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:846
+msgid "Settings for Facebook Pixel."
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:798
+msgid "Settings for GDPR."
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:822
+msgid "Settings for Google Analytics."
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:834
+msgid "Settings for Google Tag Manager."
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:527
+#: admin/class-super-simple-tracking-codes-admin.php:612
+#: admin/class-super-simple-tracking-codes-admin.php:697
+msgid "Sitewide"
+msgstr ""
+
+#. Author of the plugin
+msgid "Solitweb"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-super-simple-tracking-codes-admin.php:154
+#: admin/partials/super-simple-tracking-codes-admin-display.php:14
+msgid "Super Simple Tracking Codes"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:352
+msgid "Text shown on the allow button. (e.g. Allow cookies)"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:335
+msgid "Text shown on the deny button. (e.g. Decline)"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:318
+msgid "Text shown on the dismiss button. (e.g. Got it!)"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:369
+msgid "Text shown on the link to your privacy policy page. (e.g. Learn more)"
+msgstr ""
+
+#: public/class-super-simple-tracking-codes-public.php:84
+msgid ""
+"This website uses cookies to ensure you get the best experience on our "
+"website."
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:277
+msgid "Top (banner)"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:155
+msgid "Tracking codes"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:517
+#: admin/class-super-simple-tracking-codes-admin.php:602
+#: admin/class-super-simple-tracking-codes-admin.php:687
+msgid "Use sitewide?"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:596
+msgid ""
+"Your Container ID of the Google Tag Manager Container you wish to track. (e."
+"g. GTM-XXXXXX)"
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:681
+msgid "Your Pixel ID of the Facebook Pixel you wish to track."
+msgstr ""
+
+#: admin/class-super-simple-tracking-codes-admin.php:511
+msgid ""
+"Your Property ID of the Google Analytics Property you wish to track. (e.g. "
+"UA-XXXXXXXXX-X)"
+msgstr ""
